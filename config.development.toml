@@ -1,0 +1,19 @@
+[message]
+greetings = "All your base are belong to us!\n"
+404 = "404: These are not the droids you're looking for...\n" 
+
+[database]
+## mLab
+mysql_host = "localhost:3600"
+mysql_db = "heroku_gsm9ld6q"
+mysql_user = "heroku_gsm9ld6q"
+mysql_pass = "heroku_gsm9ld6q"
+
+[cpu]
+maxprocs = 0
+
+[server]
+port = "8080"
+
+[log]
+quiet = false

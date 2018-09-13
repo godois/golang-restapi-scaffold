@@ -13,7 +13,7 @@ mysql_pass = "heroku_gsm9ld6q"
 maxprocs = 0
 
 [server]
-port = "8080"
+port = ":8080"
 
 [log]
 quiet = false
